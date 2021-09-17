@@ -1,2 +1,2 @@
 One_time_token generater with
-simple GUI
+simple CLI
