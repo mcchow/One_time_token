@@ -1,2 +1,2 @@
-"# One_time_token that generate a key"
+One_time_token generater with
 simple GUI
