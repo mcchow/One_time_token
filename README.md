@@ -1,6 +1,6 @@
-One_time_token generater with
-simple CLI
-In this assignment you will develop an event based one-time password (OTP) system. <br>
+One_time_token generater with<br>
+simple CLI<br>
+In this assignment you will develop an event based one-time password (OTP) system. <br><br>
 The system consists of the following components:<br>
 1.A soft OTP token UI consistingof a push buttonand a textfield. Clicking on the button will generate and display the one-time password.<br>
 2.A test UI which will prompt the user to provide the OTP, show access granted message only if the right OTP is entered.<br><br>
